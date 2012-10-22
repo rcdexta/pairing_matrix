@@ -1,0 +1,3 @@
+repositories: ['/Users/RC/work/merchandise_services', '/Users/RC/work/merchandise_app']
+authors: Lokeshwaran, Prakash, Ginette Vellera, RC, Vagmi Mudumbai, Gaurav Agarwal, Varadharajan, Sudhakar, Agalya, Thiyagu, Haritha, Thanga, Deepan, Arun
+commit_pattern: !ruby/regexp '/[^\[]*\[\s*(\w+)\s*\/\s*(\w+).*/'
