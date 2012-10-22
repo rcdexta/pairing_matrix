@@ -9,6 +9,7 @@ class FuzzyStringMatcher
   end
   
   def match(name)
+    name = name.capitalize
     @seed.max_by do |item|
       item.levenshtein_similar name
     end
