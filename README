@@ -1,7 +1,12 @@
+## Pairing Matrix Generator
 
-Pairing Matrix Generator
+**Usage**
 
-To-Do:
+1. Setup the configuration in config.yml
+2. Run pairing_matrix_generator.rb
+3. The matrix will be generated as HTML	
+
+**To-Do**
 
 1. Restructure scripts to a GEM
 2. Improve fuzzy string match accuracy
